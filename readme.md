@@ -45,3 +45,9 @@ The interface will display turn indicators, scoreboards, and a restart option. J
 - Add a computer opponent with basic AI
 
 ---
+
+## Project Planning
+
+**[Trello Board](https://trello.com/b/5XCmM7b6/dots-and-boxes)**
+
+**[Git Hub](https://github.com/Diana961216/Dots-and-boxes-planning)**
